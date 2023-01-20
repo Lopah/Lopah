@@ -17,7 +17,7 @@ My main fields of interest are:
 
 #### Languages
 
-![.NET](https://img.shields.io/badge/--DD4814?style=flat-square&logo=dotnet&logoColor=fffffff)
+![.NET](https://img.shields.io/badge/-CSharp-DD4814?style=flat-square&logo=dotnet&logoColor=fffffff)
 
 #### Databases
 
